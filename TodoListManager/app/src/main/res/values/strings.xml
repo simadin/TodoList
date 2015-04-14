@@ -3,4 +3,12 @@
 
     <string name="add_string">Add</string>
     <string name="delete_string">Delete Item</string>
+
+    <string name="no_due_date">No Due Date</string>
+    <string name="title_activity_add_new_todo_item">Add New Item</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
 </resources>

@@ -2,17 +2,6 @@
     android:layout_height="fill_parent"
     android:layout_width="fill_parent">
 
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/edtNewItem"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:inputType="text" />
-
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
