@@ -8,12 +8,12 @@
         android:layout_width="wrap_content"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"
-        android:textSize="16sp"/>
+        android:textSize="20sp"/>
     <TextView android:id="@+id/txtTodoDueDate"
         android:text="@string/no_due_date"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"
         android:gravity="right" />
